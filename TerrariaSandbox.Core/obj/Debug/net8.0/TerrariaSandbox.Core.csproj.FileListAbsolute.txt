@@ -1,0 +1,12 @@
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\bin\Debug\net8.0\TerrariaSandbox.Core.deps.json
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\bin\Debug\net8.0\TerrariaSandbox.Core.dll
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\bin\Debug\net8.0\TerrariaSandbox.Core.pdb
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\TerrariaSandbox.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\TerrariaSandbox.Core.AssemblyInfoInputs.cache
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\TerrariaSandbox.Core.AssemblyInfo.cs
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\TerrariaSandbox.Core.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\TerrariaSandbox.Core.dll
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\refint\TerrariaSandbox.Core.dll
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\TerrariaSandbox.Core.pdb
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\ref\TerrariaSandbox.Core.dll
+C:\Users\Joao\Documents\terraria\TerrariaSandbox.Core\obj\Debug\net8.0\TerrariaSandbox.Core.csproj.AssemblyReference.cache

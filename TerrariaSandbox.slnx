@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TerrariaSandbox.Core/TerrariaSandbox.Core.csproj" />
+  <Project Path="TerrariaSandbox.DesktopGL/TerrariaSandbox.DesktopGL.csproj" />
+  <Project Path="TerrariaSandbox.Tests/TerrariaSandbox.Tests.csproj" />
+</Solution>

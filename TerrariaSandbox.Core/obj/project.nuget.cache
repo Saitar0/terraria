@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xYp1Qt9XGtk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joao\\Documents\\terraria\\TerrariaSandbox.Core\\TerrariaSandbox.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Joao\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Joao\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
